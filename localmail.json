@@ -1,12 +1,12 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Local email testing for developers",
   "homepage": "https://localmail.dev",
   "license": "Proprietary",
   "architecture": {
     "64bit": {
-      "url": "https://download.localmail.dev/releases/0.1.1/LocalMail-Setup.exe",
-      "hash": "7a1fd2d89f93c0c77ce714bb1547e3bddc9bf1c49cc82292ce64bfa6fa6171af"
+      "url": "https://download.localmail.dev/releases/0.1.2/LocalMail-Setup.exe",
+      "hash": "64afdbd3ebf20569a770b24568561f5920ce731d59ffe402cf9b110011973a70"
     }
   },
   "installer": {
