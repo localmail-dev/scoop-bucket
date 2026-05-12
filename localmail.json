@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://download.localmail.dev/releases/1.1.2/LocalMail-Setup.exe",
-      "hash": "c4c56162a802b6c310e1558dac8be9e0723bb8aa825d846f333632f211c315f9"
+      "hash": "c4c5e6a2fe0a47b7317cdecdcb1b6c37ab4d8fca7f9bbd0c1141031f8e811379"
     }
   },
   "installer": {
